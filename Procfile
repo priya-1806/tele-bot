@@ -1,1 +1,1 @@
-worker: python priya.py
+worker: python gs.py
